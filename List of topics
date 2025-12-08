@@ -1,0 +1,183 @@
+1️⃣ ML Foundations
+
+Fundamentals of Information Theory
+
+Introduction to Machine Learning
+
+Types of ML Algorithms (Supervised, Unsupervised, Reinforcement)
+
+PAC Learning
+
+Bias–Variance Tradeoff
+
+VC Dimension
+
+Structural Risk Minimization / Occam’s Razor / No Free Lunch Theorem
+
+Regularization & Stability
+
+Uses of Machine Learning
+
+Evaluating ML Techniques
+
+Model Selection & Model Validation
+
+2️⃣ Python for ML
+
+Introduction to Scikit-Learn
+
+ML Workflow using scikit-learn
+
+Dataset handling (Kaggle, UCI datasets)
+
+Data Exploration, Correlation, Scaling, Weighting
+
+3️⃣ Unsupervised Learning
+
+Clustering Concepts
+
+K-Means
+
+Hierarchical Clustering
+
+Distance Measures
+
+Cluster Profiling
+
+Elbow Method / WSS
+
+Dimensionality Reduction
+
+PCA / Kernel PCA
+
+Random Projections
+
+4️⃣ Evaluation Metrics
+
+Classification Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC, Log Loss
+
+Regression Metrics: MAE, MSE, RMSE, R² Score
+
+5️⃣ Tree-Based & Ensemble Models
+
+Decision Trees
+
+CART (Classification & Regression Trees)
+
+Random Forest
+
+Gradient Boosting Machines
+
+XGBoost, LightGBM, CatBoost
+
+Model Stacking
+
+6️⃣ Probabilistic & Distance-Based Models
+
+Bayesian Analysis & Naive Bayes
+
+Linear Discriminant Analysis (LDA)
+
+K-Nearest Neighbour (KNN)
+
+7️⃣ Regression Models
+
+Linear Regression
+
+Logistic Regression
+
+Polynomial Regression
+
+Regularization: Ridge, Lasso, ElasticNet
+
+8️⃣ Support Vector Machines
+
+SVM Fundamentals
+
+Kernel-based SVM (Polynomial, RBF)
+
+Classification boundaries
+
+9️⃣ Time Series Analysis
+
+Moving Average, Exponential Smoothing
+
+Holt, Holt-Winters Trend Methods
+
+ACF & PACF
+
+AR, MA, ARMA, ARIMA models
+
+🔟 Recommender Systems
+
+Collaborative Filtering
+
+Matrix Factorization
+
+Recall, Precision, RMSE, MRR, MAP@K, NDCG
+
+1️⃣1️⃣ Deep Learning Foundations
+
+Introduction to Deep Learning
+
+TensorFlow & Keras basics
+
+Autoencoders
+
+Activation Functions: Sigmoid, Tanh, ReLU
+
+Backpropagation
+
+Overfitting Controls: Early Stopping, Dropout, L1 & L2
+
+Optimizers: SGD, Mini-batch, Backprop Variants, Adam
+
+1️⃣2️⃣ CNN with PyTorch
+
+PyTorch Basics & vs TensorFlow
+
+Convolution concepts
+
+Transfer Learning & Inception
+
+Data Augmentation
+
+Object Detection
+
+YOLO (High-level)
+
+1️⃣3️⃣ RNNs & Sequence Models
+
+RNN Concepts
+
+Vanishing Gradients
+
+GRU & LSTM (High-level)
+
+Time-series use with LSTM
+
+1️⃣4️⃣ Generative AI & Transformers
+
+Introduction to Transformers
+
+Attention Mechanisms
+
+Encoder-Decoder Architecture
+
+BERT: Pre-training & Fine-tuning
+
+NLP text preprocessing (tokenization, stemming, lemmatization)
+
+1️⃣5️⃣ LLMs & Advanced AI Concepts
+
+Large Language Models Overview
+
+Capabilities, Limitations, Responsible AI
+
+Reward Models & Alignment
+
+Bias mitigation & safe deployment
+
+Infrastructure & deployment strategies
+
+Real-world applications (chatbots, text/code generation)
